@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Local Graph Node",
+  "id": "Local Graph Node",
+  "title": "Local Graph Node",
+  "description": "Run your local Graph Node",
+  "source": "@site/docs/Local Graph Node.md",
+  "sourceDirName": ".",
+  "slug": "/Local Graph Node",
+  "permalink": "/Local Graph Node",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Queries",
+    "permalink": "/Queries"
+  },
+  "next": {
+    "title": "Helpful Resources",
+    "permalink": "/Helpful Resources"
+  }
+}

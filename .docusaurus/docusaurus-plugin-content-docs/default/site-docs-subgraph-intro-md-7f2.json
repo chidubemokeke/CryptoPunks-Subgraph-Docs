@@ -1,0 +1,23 @@
+{
+  "unversionedId": "subgraph-intro",
+  "id": "subgraph-intro",
+  "title": "Subgraph Intro",
+  "description": "The CryptoPunks are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person on the Ethereum blockchain.",
+  "source": "@site/docs/subgraph-intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Entities",
+    "permalink": "/Entities"
+  }
+}

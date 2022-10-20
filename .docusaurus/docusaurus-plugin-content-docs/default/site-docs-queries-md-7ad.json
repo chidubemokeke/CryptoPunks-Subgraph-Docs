@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Queries",
+  "id": "Queries",
+  "title": "Queries",
+  "description": "Sample Queries",
+  "source": "@site/docs/Queries.md",
+  "sourceDirName": ".",
+  "slug": "/Queries",
+  "permalink": "/Queries",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entities",
+    "permalink": "/Entities"
+  },
+  "next": {
+    "title": "Local Graph Node",
+    "permalink": "/Local Graph Node"
+  }
+}

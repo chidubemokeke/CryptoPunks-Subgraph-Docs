@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "subgraph-intro",
+          "docs": [
+            {
+              "id": "Entities",
+              "path": "/Entities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Helpful Resources",
+              "path": "/Helpful Resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Local Graph Node",
+              "path": "/Local Graph Node",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Queries",
+              "path": "/Queries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "subgraph-intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "subgraph-intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

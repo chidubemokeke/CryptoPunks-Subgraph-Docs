@@ -1,0 +1,26 @@
+{
+  "unversionedId": "entities",
+  "id": "entities",
+  "title": "entities",
+  "description": "",
+  "source": "@site/docs/entities.md",
+  "sourceDirName": ".",
+  "slug": "/entities",
+  "permalink": "/entities",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Subgraph Intro",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "query",
+    "permalink": "/query"
+  }
+}

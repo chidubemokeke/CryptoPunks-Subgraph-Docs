@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Local-Graph-Node",
+  "id": "Local-Graph-Node",
+  "title": "Local-Graph-Node",
+  "description": "",
+  "source": "@site/docs/Local-Graph-Node.md",
+  "sourceDirName": ".",
+  "slug": "/Local-Graph-Node",
+  "permalink": "/Local-Graph-Node",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query",
+    "permalink": "/Query"
+  }
+}

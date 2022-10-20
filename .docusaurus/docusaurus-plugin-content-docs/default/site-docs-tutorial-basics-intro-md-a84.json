@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/intro",
+  "id": "tutorial-basics/intro",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/tutorial-basics/intro.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/tutorial-basics/create-a-page"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/tutorial-basics/create-a-document"
+  }
+}

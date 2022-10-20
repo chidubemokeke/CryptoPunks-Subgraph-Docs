@@ -1,0 +1,13 @@
+export default {
+  '001af6a9': [() => import(/* webpackChunkName: '001af6a9' */ '/Users/estherliadi/docusaurus/Cryptopunks/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json'), '/Users/estherliadi/docusaurus/Cryptopunks/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json', require.resolveWeak('/Users/estherliadi/docusaurus/Cryptopunks/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json')],
+  '17896441': [() => import(/* webpackChunkName: '17896441' */ '@theme/DocItem'), '@theme/DocItem', require.resolveWeak('@theme/DocItem')],
+  '1be78505': [() => import(/* webpackChunkName: '1be78505' */ '@theme/DocPage'), '@theme/DocPage', require.resolveWeak('@theme/DocPage')],
+  '1c08a04f': [() => import(/* webpackChunkName: '1c08a04f' */ '/Users/estherliadi/docusaurus/Cryptopunks/.docusaurus/docusaurus-plugin-content-pages/default/plugin-route-context-module-100.json'), '/Users/estherliadi/docusaurus/Cryptopunks/.docusaurus/docusaurus-plugin-content-pages/default/plugin-route-context-module-100.json', require.resolveWeak('/Users/estherliadi/docusaurus/Cryptopunks/.docusaurus/docusaurus-plugin-content-pages/default/plugin-route-context-module-100.json')],
+  '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ '@theme/MDXPage'), '@theme/MDXPage', require.resolveWeak('@theme/MDXPage')],
+  '393be207': [() => import(/* webpackChunkName: '393be207' */ '@site/src/pages/markdown-page.md'), '@site/src/pages/markdown-page.md', require.resolveWeak('@site/src/pages/markdown-page.md')],
+  '47f8889b': [() => import(/* webpackChunkName: '47f8889b' */ '@site/docs/Helpful Resources.md'), '@site/docs/Helpful Resources.md', require.resolveWeak('@site/docs/Helpful Resources.md')],
+  '67eefbc2': [() => import(/* webpackChunkName: '67eefbc2' */ '@site/docs/Local Graph Node.md'), '@site/docs/Local Graph Node.md', require.resolveWeak('@site/docs/Local Graph Node.md')],
+  '7ad239b9': [() => import(/* webpackChunkName: '7ad239b9' */ '@site/docs/Queries.md'), '@site/docs/Queries.md', require.resolveWeak('@site/docs/Queries.md')],
+  '7f25f0fb': [() => import(/* webpackChunkName: '7f25f0fb' */ '@site/docs/subgraph-intro.md'), '@site/docs/subgraph-intro.md', require.resolveWeak('@site/docs/subgraph-intro.md')],
+  '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ '~docs/default/version-current-metadata-prop-751.json'), '~docs/default/version-current-metadata-prop-751.json', require.resolveWeak('~docs/default/version-current-metadata-prop-751.json')],
+  'ad033608': [() => import(/* webpackChunkName: 'ad033608' */ '@site/docs/Entities.md'), '@site/docs/Entities.md', require.resolveWeak('@site/docs/Entities.md')],};

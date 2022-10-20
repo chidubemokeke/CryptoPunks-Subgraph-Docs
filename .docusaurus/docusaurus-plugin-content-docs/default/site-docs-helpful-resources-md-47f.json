@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Helpful Resources",
+  "id": "Helpful Resources",
+  "title": "Helpful Resources",
+  "description": "EPNS Notifications",
+  "source": "@site/docs/Helpful Resources.md",
+  "sourceDirName": ".",
+  "slug": "/Helpful Resources",
+  "permalink": "/Helpful Resources",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Local Graph Node",
+    "permalink": "/Local Graph Node"
+  }
+}

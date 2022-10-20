@@ -1,0 +1,22 @@
+{
+  "unversionedId": "query",
+  "id": "query",
+  "title": "query",
+  "description": "",
+  "source": "@site/docs/query.md",
+  "sourceDirName": ".",
+  "slug": "/query",
+  "permalink": "/query",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entities",
+    "permalink": "/Entities"
+  }
+}

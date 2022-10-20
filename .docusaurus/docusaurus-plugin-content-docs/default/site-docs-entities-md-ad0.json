@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Entities",
+  "id": "Entities",
+  "title": "Entities",
+  "description": "Entities for the CryptoPunks Subgraph are all listed below",
+  "source": "@site/docs/Entities.md",
+  "sourceDirName": ".",
+  "slug": "/Entities",
+  "permalink": "/Entities",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Subgraph Intro",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Queries",
+    "permalink": "/Queries"
+  }
+}

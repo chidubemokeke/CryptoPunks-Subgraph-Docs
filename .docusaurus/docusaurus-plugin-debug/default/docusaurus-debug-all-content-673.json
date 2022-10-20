@@ -1,0 +1,191 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/estherliadi/docusaurus/Cryptopunks/sidebars.js",
+          "contentPath": "/Users/estherliadi/docusaurus/Cryptopunks/docs",
+          "contentPathLocalized": "/Users/estherliadi/docusaurus/Cryptopunks/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "Entities",
+              "id": "Entities",
+              "title": "Entities",
+              "description": "Entities for the CryptoPunks Subgraph are all listed below",
+              "source": "@site/docs/Entities.md",
+              "sourceDirName": ".",
+              "slug": "/Entities",
+              "permalink": "/Entities",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Subgraph Intro",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Queries",
+                "permalink": "/Queries"
+              }
+            },
+            {
+              "unversionedId": "Helpful Resources",
+              "id": "Helpful Resources",
+              "title": "Helpful Resources",
+              "description": "EPNS Notifications",
+              "source": "@site/docs/Helpful Resources.md",
+              "sourceDirName": ".",
+              "slug": "/Helpful Resources",
+              "permalink": "/Helpful Resources",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Local Graph Node",
+                "permalink": "/Local Graph Node"
+              }
+            },
+            {
+              "unversionedId": "Local Graph Node",
+              "id": "Local Graph Node",
+              "title": "Local Graph Node",
+              "description": "Run your local Graph Node",
+              "source": "@site/docs/Local Graph Node.md",
+              "sourceDirName": ".",
+              "slug": "/Local Graph Node",
+              "permalink": "/Local Graph Node",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Queries",
+                "permalink": "/Queries"
+              },
+              "next": {
+                "title": "Helpful Resources",
+                "permalink": "/Helpful Resources"
+              }
+            },
+            {
+              "unversionedId": "Queries",
+              "id": "Queries",
+              "title": "Queries",
+              "description": "Sample Queries",
+              "source": "@site/docs/Queries.md",
+              "sourceDirName": ".",
+              "slug": "/Queries",
+              "permalink": "/Queries",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Entities",
+                "permalink": "/Entities"
+              },
+              "next": {
+                "title": "Local Graph Node",
+                "permalink": "/Local Graph Node"
+              }
+            },
+            {
+              "unversionedId": "subgraph-intro",
+              "id": "subgraph-intro",
+              "title": "Subgraph Intro",
+              "description": "The CryptoPunks are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person on the Ethereum blockchain.",
+              "source": "@site/docs/subgraph-intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Entities",
+                "permalink": "/Entities"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "subgraph-intro"
+              },
+              {
+                "type": "doc",
+                "id": "Entities"
+              },
+              {
+                "type": "doc",
+                "id": "Queries"
+              },
+              {
+                "type": "doc",
+                "id": "Local Graph Node"
+              },
+              {
+                "type": "doc",
+                "id": "Helpful Resources"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
