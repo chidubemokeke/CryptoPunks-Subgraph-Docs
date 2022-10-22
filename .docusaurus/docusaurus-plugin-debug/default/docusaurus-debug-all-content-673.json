@@ -13,9 +13,9 @@
           "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/estherliadi/docusaurus/Cryptopunks/sidebars.js",
-          "contentPath": "/Users/estherliadi/docusaurus/Cryptopunks/docs",
-          "contentPathLocalized": "/Users/estherliadi/docusaurus/Cryptopunks/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/estherliadi/docusaurus/subgraph-docs/sidebars.js",
+          "contentPath": "/Users/estherliadi/docusaurus/subgraph-docs/docs",
+          "contentPathLocalized": "/Users/estherliadi/docusaurus/subgraph-docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "Entities",
@@ -41,32 +41,6 @@
               "next": {
                 "title": "Queries",
                 "permalink": "/Queries"
-              }
-            },
-            {
-              "unversionedId": "EPNS-Push",
-              "id": "EPNS-Push",
-              "title": "EPNS-Push",
-              "description": "EPNS-Push Notifications",
-              "source": "@site/docs/EPNS-Push.md",
-              "sourceDirName": ".",
-              "slug": "/EPNS-Push",
-              "permalink": "/EPNS-Push",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Queries",
-                "permalink": "/Queries"
-              },
-              "next": {
-                "title": "Local Graph Node",
-                "permalink": "/Local Graph Node"
               }
             },
             {
@@ -109,12 +83,38 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "EPNS-Push",
-                "permalink": "/EPNS-Push"
+                "title": "Push Notifications",
+                "permalink": "/Push Notifications"
               },
               "next": {
                 "title": "Helpful Resources",
                 "permalink": "/Helpful Resources"
+              }
+            },
+            {
+              "unversionedId": "Push Notifications",
+              "id": "Push Notifications",
+              "title": "Push Notifications",
+              "description": "Push Notifications",
+              "source": "@site/docs/Push Notifications.md",
+              "sourceDirName": ".",
+              "slug": "/Push Notifications",
+              "permalink": "/Push Notifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Queries",
+                "permalink": "/Queries"
+              },
+              "next": {
+                "title": "Local Graph Node",
+                "permalink": "/Local Graph Node"
               }
             },
             {
@@ -139,8 +139,8 @@
                 "permalink": "/Entities"
               },
               "next": {
-                "title": "EPNS-Push",
-                "permalink": "/EPNS-Push"
+                "title": "Push Notifications",
+                "permalink": "/Push Notifications"
               }
             },
             {
@@ -184,7 +184,7 @@
               },
               {
                 "type": "doc",
-                "id": "EPNS-Push"
+                "id": "Push Notifications"
               },
               {
                 "type": "doc",
