@@ -11,7 +11,7 @@ sidebar_position: 2
 - [Metadata](#metadata)
 - [Trait](#trait)
 - [Ask](#ask)
-- [Bid](bid)
+- [Bid](#bid)
 - [Contract](#contract)
 - [Assign](#assign)
 - [Sale](#sale)
