@@ -7,6 +7,8 @@ slug: /
 
 The CryptoPunks are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person on the Ethereum blockchain.
 
+![cryptopunks_image](https://raw.githubusercontent.com/chidubemokeke/CryptoPunks/main/punks.png)
+
 Crypto Punks has a GraphQL API Endpoint hosted by [The Graph](https://thegraph.com/docs/about/introduction#what-the-graph-is) called a subgraph for indexing and organizing data from the Crypto Punks smart contracts.
 
 This subgraph can be used to query on-chain Crypto Punks data. The subgraph data is serviced by a decentralized group of server operators called [Indexers](https://thegraph.com/docs/en/network/indexing/).

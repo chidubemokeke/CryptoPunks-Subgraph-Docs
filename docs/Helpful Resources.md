@@ -1,16 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
-
-### EPNS Notifications
-
-Subscribe to get realtime event notifications from the subgraph.
-
-```
-https://staging.push.org/#/channels
-```
-
-Search for `Cryptopunks Marketplace` and opt-in.
 
 These additional resources will help you interact with, and query the CryptoPunks Subgraph.
 

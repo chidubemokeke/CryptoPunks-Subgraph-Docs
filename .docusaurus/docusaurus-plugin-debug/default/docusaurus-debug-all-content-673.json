@@ -44,10 +44,36 @@
               }
             },
             {
+              "unversionedId": "EPNS-Push",
+              "id": "EPNS-Push",
+              "title": "EPNS-Push",
+              "description": "EPNS-Push Notifications",
+              "source": "@site/docs/EPNS-Push.md",
+              "sourceDirName": ".",
+              "slug": "/EPNS-Push",
+              "permalink": "/EPNS-Push",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Queries",
+                "permalink": "/Queries"
+              },
+              "next": {
+                "title": "Local Graph Node",
+                "permalink": "/Local Graph Node"
+              }
+            },
+            {
               "unversionedId": "Helpful Resources",
               "id": "Helpful Resources",
               "title": "Helpful Resources",
-              "description": "EPNS Notifications",
+              "description": "These additional resources will help you interact with, and query the CryptoPunks Subgraph.",
               "source": "@site/docs/Helpful Resources.md",
               "sourceDirName": ".",
               "slug": "/Helpful Resources",
@@ -55,9 +81,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -77,14 +103,14 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Queries",
-                "permalink": "/Queries"
+                "title": "EPNS-Push",
+                "permalink": "/EPNS-Push"
               },
               "next": {
                 "title": "Helpful Resources",
@@ -113,8 +139,8 @@
                 "permalink": "/Entities"
               },
               "next": {
-                "title": "Local Graph Node",
-                "permalink": "/Local Graph Node"
+                "title": "EPNS-Push",
+                "permalink": "/EPNS-Push"
               }
             },
             {
@@ -155,6 +181,10 @@
               {
                 "type": "doc",
                 "id": "Queries"
+              },
+              {
+                "type": "doc",
+                "id": "EPNS-Push"
               },
               {
                 "type": "doc",

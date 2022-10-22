@@ -29,6 +29,12 @@
       },
       {
         "type": "link",
+        "label": "EPNS-Push",
+        "href": "/EPNS-Push",
+        "docId": "EPNS-Push"
+      },
+      {
+        "type": "link",
         "label": "Local Graph Node",
         "href": "/Local Graph Node",
         "docId": "Local Graph Node"
@@ -48,10 +54,16 @@
       "description": "Entities for the CryptoPunks Subgraph are all listed below",
       "sidebar": "tutorialSidebar"
     },
+    "EPNS-Push": {
+      "id": "EPNS-Push",
+      "title": "EPNS-Push",
+      "description": "EPNS-Push Notifications",
+      "sidebar": "tutorialSidebar"
+    },
     "Helpful Resources": {
       "id": "Helpful Resources",
       "title": "Helpful Resources",
-      "description": "EPNS Notifications",
+      "description": "These additional resources will help you interact with, and query the CryptoPunks Subgraph.",
       "sidebar": "tutorialSidebar"
     },
     "Local Graph Node": {

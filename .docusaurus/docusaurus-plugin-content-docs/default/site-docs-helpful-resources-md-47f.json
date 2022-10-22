@@ -2,7 +2,7 @@
   "unversionedId": "Helpful Resources",
   "id": "Helpful Resources",
   "title": "Helpful Resources",
-  "description": "EPNS Notifications",
+  "description": "These additional resources will help you interact with, and query the CryptoPunks Subgraph.",
   "source": "@site/docs/Helpful Resources.md",
   "sourceDirName": ".",
   "slug": "/Helpful Resources",
@@ -10,9 +10,9 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {

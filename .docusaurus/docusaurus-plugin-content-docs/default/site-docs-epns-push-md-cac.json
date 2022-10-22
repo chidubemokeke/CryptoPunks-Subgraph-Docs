@@ -1,0 +1,26 @@
+{
+  "unversionedId": "EPNS-Push",
+  "id": "EPNS-Push",
+  "title": "EPNS-Push",
+  "description": "EPNS-Push Notifications",
+  "source": "@site/docs/EPNS-Push.md",
+  "sourceDirName": ".",
+  "slug": "/EPNS-Push",
+  "permalink": "/EPNS-Push",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Queries",
+    "permalink": "/Queries"
+  },
+  "next": {
+    "title": "Local Graph Node",
+    "permalink": "/Local Graph Node"
+  }
+}
