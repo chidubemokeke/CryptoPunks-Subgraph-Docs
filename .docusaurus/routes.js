@@ -4,12 +4,12 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '125'),
+    component: ComponentCreator('/markdown-page', '99c'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '72b'),
+    component: ComponentCreator('/', '614'),
     routes: [
       {
         path: '/',
@@ -24,12 +24,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/EPNS-Push',
-        component: ComponentCreator('/EPNS-Push', '91c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/Helpful Resources',
         component: ComponentCreator('/Helpful Resources', '985'),
         exact: true,
@@ -38,6 +32,12 @@ export default [
       {
         path: '/Local Graph Node',
         component: ComponentCreator('/Local Graph Node', '630'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Push Notifications',
+        component: ComponentCreator('/Push Notifications', '27e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

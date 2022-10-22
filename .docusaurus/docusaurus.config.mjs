@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "routeBasePath": "/",
-          "sidebarPath": "/Users/estherliadi/docusaurus/Cryptopunks/sidebars.js"
+          "sidebarPath": "/Users/estherliadi/docusaurus/subgraph-docs/sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/Users/estherliadi/docusaurus/Cryptopunks/src/css/custom.css"
+          "customCss": "/Users/estherliadi/docusaurus/subgraph-docs/src/css/custom.css"
         }
       }
     ]

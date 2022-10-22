@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "EPNS-Push",
-              "path": "/EPNS-Push",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Helpful Resources",
               "path": "/Helpful Resources",
               "sidebar": "tutorialSidebar"
@@ -28,6 +23,11 @@
             {
               "id": "Local Graph Node",
               "path": "/Local Graph Node",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Push Notifications",
+              "path": "/Push Notifications",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Push Notifications",
+  "id": "Push Notifications",
+  "title": "Push Notifications",
+  "description": "Push Notifications",
+  "source": "@site/docs/Push Notifications.md",
+  "sourceDirName": ".",
+  "slug": "/Push Notifications",
+  "permalink": "/Push Notifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Queries",
+    "permalink": "/Queries"
+  },
+  "next": {
+    "title": "Local Graph Node",
+    "permalink": "/Local Graph Node"
+  }
+}
