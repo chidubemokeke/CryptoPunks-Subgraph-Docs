@@ -109,7 +109,7 @@ sidebar_position: 2
 | nft       | NFT       | Punk being offered for sale                            |
 | created   | Event     | Ask created at                                         |
 | removed   | Event     | Ask removed at                                         |
-| offerType | OfferType | Offer type                                             |   
+| offerType | OfferType | Type of offer                                          |   
 
 ## Bid
 
