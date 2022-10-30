@@ -100,15 +100,16 @@ sidebar_position: 2
 
 ## Ask
 
-| Field   | Type     | Description                                            |
-| ------- | -------- | ------------------------------------------------------ |
-| id      | ID!      | Ask ID                                                 |
-| from    | Account! | Account that created ask                               |
-| open    | Boolean! | Open status of punk. Asks can be either open or closed |
-| amount  | BigInt!  | Ask for punk in ETH                                    |
-| nft     | NFT      | Punk being offered for sale                            |
-| created | Event    | Ask created at                                         |
-| removed | Event    | Ask removed at                                         |
+| Field     | Type      | Description                                            |
+| --------- | --------- | ------------------------------------------------------ |
+| id        | ID!       | Ask ID                                                 |
+| from      | Account!  | Account that created ask                               |
+| open      | Boolean!  | Open status of punk. Asks can be either open or closed |
+| amount    | BigInt!   | Ask for punk in ETH                                    |
+| nft       | NFT       | Punk being offered for sale                            |
+| created   | Event     | Ask created at                                         |
+| removed   | Event     | Ask removed at                                         |
+| offerType | OfferType | Offer type                                             |   
 
 ## Bid
 
