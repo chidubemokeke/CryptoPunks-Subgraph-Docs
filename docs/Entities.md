@@ -24,9 +24,6 @@ sidebar_position: 2
 - [UserProxy](#userproxy)
 - [EpnsNotificationCounter](#epnsnotificationcounter)
 - [EpnsPushNotification](#epnspushnotification)
-- [NFT](#nft)
-- [Event](#event)
-- [Offer](#offer)
 
 ## Account
 
@@ -109,7 +106,7 @@ sidebar_position: 2
 | nft       | NFT       | Punk being offered for sale                            |
 | created   | Event     | Ask created at                                         |
 | removed   | Event     | Ask removed at                                         |
-| offerType | OfferType | Type of offer                                          |   
+| offerType | OfferType | Type of offer                                          |
 
 ## Bid
 
